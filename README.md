@@ -44,4 +44,5 @@
 | [Αρχείο pdf](https://github.com/Christos-SP/VanNET_UX_Evaluation/blob/main/Inventory/%CE%94%CE%B7%CE%BC%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CE%AC%20%CE%A3%CF%84%CE%BF%CE%B9%CF%87%CE%B5%CE%AF%CE%B1%20%CE%A7%CF%81%CE%AE%CF%83%CF%84%CE%B7.pdf) |     
 
 
-
+  
+**Η ομάδα ανάπτυξης της εφαρμογής VanNET**
