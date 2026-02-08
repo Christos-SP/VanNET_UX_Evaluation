@@ -19,3 +19,8 @@
 | Σενάριο Χρήσης 1 | [Link](https://spiros1979.github.io/Vannet/index.html) |  Ο χρήστης ελέγχει το επίπεδο νερού στις δεξαμενές αποθήκευσης, καθώς και το ιστορικό κατανάλωσης νερού στις δεξαμενές, ώστε να είναι προετοιμασμένος για τον επερχόμενο καύσωνα.   |    
 | Σενάριο Χρήσης 2 |[Link](https://spiros1979.github.io/Vannet/index.html)|  Ο χρήστης καλείται να ελέγξει την πρόγνωση του καιρού, μέσω της web εφαρμογής και μέσω της εφαρμογής στο κινητό του, ώστε, ανάλογα τις καιρικές συνθήκες, να προγραμματίσει πότισμα του κήπου.  |    
 
+  
+| Δημογραφικά Στοιχεία Χρήστη/Αξιολογητή |  
+| :-----------: |  
+| [Αρχείο word](https://github.com/Christos-SP/VanNET_UX_Evaluation/blob/main/Inventory/%CE%94%CE%B7%CE%BC%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CE%AC%20%CE%A3%CF%84%CE%BF%CE%B9%CF%87%CE%B5%CE%AF%CE%B1%20%CE%A7%CF%81%CE%AE%CF%83%CF%84%CE%B7.docx) |   
+| [Αρχείο pdf](https://github.com/Christos-SP/VanNET_UX_Evaluation/blob/main/Inventory/%CE%94%CE%B7%CE%BC%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CE%AC%20%CE%A3%CF%84%CE%BF%CE%B9%CF%87%CE%B5%CE%AF%CE%B1%20%CE%A7%CF%81%CE%AE%CF%83%CF%84%CE%B7.pdf) |     
