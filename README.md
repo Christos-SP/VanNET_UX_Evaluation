@@ -6,7 +6,7 @@
 1) μέθοδο του ερωτηματολογίου (questionnaire) και
 2) μέθοδο καταγραφής της δραστηριότητας του χρήστη (activity logging)
 
-Η ομάδα μας επέλεξε για την αξιολόγηση εμπειρίας χρήστη να χρησιμοποιήσει την ελληνική έκδοση του [ερωτηματολογίου UEQ](https://spiros1979.github.io/Vannet/index.html), ενώ ως μέθοδος καταγραφής της δραστηριότητας του χρήστη (activity logging) χρησιμοποιείται το freeware [πρόγραμμα mousotron](https://www.blacksunsoftware.com/mousotron.html). 
+Η ομάδα μας επέλεξε για την αξιολόγηση εμπειρίας χρήστη να χρησιμοποιήσει την ελληνική έκδοση του [ερωτηματολογίου UEQ](https://ueq-online.org/), ενώ ως μέθοδος καταγραφής της δραστηριότητας του χρήστη (activity logging) χρησιμοποιείται το freeware [πρόγραμμα mousotron](https://www.blacksunsoftware.com/mousotron.html). 
 
 | Έκδοση Εφαρμογής VanNET | |  
 | :----------- | :-----------: |  
