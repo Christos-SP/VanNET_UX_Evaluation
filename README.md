@@ -8,10 +8,10 @@
 
 Η ομάδα μας επέλεξε για την αξιολόγηση εμπειρίας χρήστη να χρησιμοποιήσει την ελληνική έκδοση του [ερωτηματολογίου UEQ](https://ueq-online.org/), ενώ ως μέθοδος καταγραφής της δραστηριότητας του χρήστη (activity logging) χρησιμοποιείται το freeware [πρόγραμμα mousotron](https://www.blacksunsoftware.com/mousotron.html). 
 
-| Έκδοση Εφαρμογής VanNET | |  
-| :----------- | :-----------: |  
-| Web Εφαρμογή VanNET | [Link](https://spiros1979.github.io/Vannet/index.html) |  
-| Εφαρμογή VanNET για κινητά android |[Link](https://github.com/Christos-SP/VanNET_UX_Evaluation/blob/main/Inventory/app-release.apk)|    
+| Έκδοση Εφαρμογής VanNET |  
+| :-----------: |  
+| [Web Εφαρμογή VanNET](https://spiros1979.github.io/Vannet/index.html) |  
+|[Εφαρμογή VanNET για κινητά android](https://github.com/Christos-SP/VanNET_UX_Evaluation/blob/main/Inventory/app-release.apk)|    
 
 Η αξιολόγηση της εμπειρίας χρήστη βασίζεται σε συγκεκριμένα σενάρια χρήσης (use scenarios), τα οποία ο χρήστης/αξιολογητής της εφαρμογής VanNET καλείται να διεκπεραιώσει.  
 | Σενάρια Χρήσης |  Concept Σεναρίου                  |  
