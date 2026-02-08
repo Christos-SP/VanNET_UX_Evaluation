@@ -9,12 +9,12 @@
 
 | Έκδοση Εφαρμογής VanNET | |  
 | :----------- | :-----------: |  
-| Web Εφαρμογή VanNET | [Link](https://spiros1979.github.io/Vannet/index.html) | 
-| Εφαρμογή VanNET για κινητά android |[Link](https://spiros1979.github.io/Vannet/index.html)|  
+| Web Εφαρμογή VanNET | [Link](https://spiros1979.github.io/Vannet/index.html) |  
+| Εφαρμογή VanNET για κινητά android |[Link](https://spiros1979.github.io/Vannet/index.html)|    
 
 Η αξιολόγηση της εμπειρίας χρήστη βασίζεται σε συγκεκριμένα σενάρια χρήσης (use scenarios), τα οποία ο χρήστης/αξιολογητής της εφαρμογής VanNET καλείται να διεκπεραιώσει.  
-| Σενάρια Χρήσης | |  
-| :----------- | :-----------: |  
-| Σενάριο Χρήσης 1 | [Link](https://spiros1979.github.io/Vannet/index.html) | 
-| Σενάριο Χρήσης 2 |[Link](https://spiros1979.github.io/Vannet/index.html)|  
+| Σενάρια Χρήσης | |  Concept Σεναρίου                  |  
+| :----------- | :-----------: | :-----------: |    
+| Σενάριο Χρήσης 1 | [Link](https://spiros1979.github.io/Vannet/index.html) |  Ο χρήστης ελέγχει το επίπεδο νερού στις δεξαμενές αποθήκευσης, καθώς και το ιστορικό κατανάλωσης νερού στις δεξαμενές, ώστε να είναι προετοιμασμένος για τον επερχόμενο καύσωνα.   |    
+| Σενάριο Χρήσης 2 |[Link](https://spiros1979.github.io/Vannet/index.html)|  Ο χρήστης καλείται να ελέγξει την πρόγνωση του καιρού, μέσω της web εφαρμογής και μέσω της εφαρμογής στο κινητό του, ώστε, ανάλογα τις καιρικές συνθήκες, να προγραμματίσει πότισμα του κήπου.  |    
 
