@@ -11,7 +11,7 @@
 | Έκδοση Εφαρμογής VanNET | |  
 | :----------- | :-----------: |  
 | Web Εφαρμογή VanNET | [Link](https://spiros1979.github.io/Vannet/index.html) |  
-| Εφαρμογή VanNET για κινητά android |[Link](https://spiros1979.github.io/Vannet/index.html)|    
+| Εφαρμογή VanNET για κινητά android |[Link](https://github.com/Christos-SP/VanNET_UX_Evaluation/blob/main/Inventory/app-release.apk)|    
 
 Η αξιολόγηση της εμπειρίας χρήστη βασίζεται σε συγκεκριμένα σενάρια χρήσης (use scenarios), τα οποία ο χρήστης/αξιολογητής της εφαρμογής VanNET καλείται να διεκπεραιώσει.  
 | Σενάρια Χρήσης | |  Concept Σεναρίου                  |  
