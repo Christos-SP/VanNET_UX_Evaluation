@@ -1,4 +1,4 @@
-![VanNET_Logo](https://github.com/Christos-SP/VanNET_UX_Evaluation/blob/main/Inventory/VanNET_Logo+small.png)
+![VanNET_Logo](https://github.com/Christos-SP/VanNET_UX_Evaluation/blob/main/Inventory/VanNET_Logo_small.png)
 # Αξιολόγηση εμπειρίας χρήσης (UX) της εφαρμογής VanNET
 Σκοπός της σελίδας αυτής είναι να παρέχει το απαραίτητο υλικό για την αξιολόγηση της εμπειρίας χρήστη (User Experience) της εφαρμογής [VanNET](https://github.com/spiros1979/Vannet/tree/Arduino-Uno-R4-Wifi). Σε περίπτωση που αποφασίσετε να αξιολογήσετε την εφαρμογή, παρακαλούμε να κατεβάσετε στον υπολογιστή ή/και στο κινητό σας το παρακάτω υλικό.  
 
